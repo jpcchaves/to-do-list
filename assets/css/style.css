@@ -43,3 +43,25 @@ body{
     color: whitesmoke;
     background-color: var(--primary-color-darker);
 }
+
+@media only screen and (max-width: 550px){
+    body{
+        font-size: 2rem;
+    }
+
+    .container{
+        max-width: 450px;
+    }
+
+    .btn-tarefa, .apagar{
+        padding: 5px 10px;
+    }
+
+    .input-tarefa{
+        height: 25px;
+    }
+
+    li{
+        font-size: 24px;
+    }
+}
