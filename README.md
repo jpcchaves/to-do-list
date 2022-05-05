@@ -7,7 +7,7 @@ Basta acessar o link abaixo:<br>
 [Lista de Tarefas](https://jpcchaves.github.io/to-do-list/)
 
 # (EN-us)
-###To-do List
+### To-do List
 This is a to-do list created using JavaScript, HTML, and CSS.
 
 ### How to use
